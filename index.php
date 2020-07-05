@@ -24,7 +24,7 @@ body, html {
 }
 
 /* Images used */
-.img2 { background-image: url("Kanyakumari_-_panoramic_view.png"); }
+.img2 { background-image: url("/images/Kanyakumari_-_panoramic_view.png"); }
 
 
 /* Position text in the middle of the page/image */
@@ -70,11 +70,11 @@ img {
 
 <h1 style="background-color:powderblue;color:red;text-align:center;font-size:40px;">Kanyakumari</h1>
 <div class="img-container">
-<img src="800px-Entrance_view_Vivekananda_rock_temple.jpg" alt="HTML5 Icon" style="width:280px;height:270px;">
+<img src="/images/800px-Entrance_view_Vivekananda_rock_temple.jpg" alt="HTML5 Icon" style="width:280px;height:270px;">
 
 
-<img src="KANYAKUMARI.jpg" alt="HTML5 Icon" width="120" height="350">
-<img src="Gandhi_Memorial_Kanyakumari.jpg" alt="HTML5 Icon" style="width:280px;height:270px;">
+<img src="/images/KANYAKUMARI.jpg" alt="HTML5 Icon" width="120" height="350">
+<img src="/images/Gandhi_Memorial_Kanyakumari.jpg" alt="HTML5 Icon" style="width:280px;height:270px;">
 
 </div>
 <div class="container">
